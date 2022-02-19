@@ -4,7 +4,7 @@ Bu uygulamayı yazarken çeşitli kaynaklardan yardım alarak yazdım kodların 
  
  ______________________________________________________________________________________________________________________________________________________________________________
   
-  Kotlin ile yazılmış Sanat Kitabı uygulaması, Testler yapılmaya uygun bir şekilde yazılmıştır fake repo oluşturulabilir .  Burada kullanılan öğeler ( Hilt, Retrofit, Search Bar, , MVVM, Room, V.B)
+  Kotlin ile yazılmış Sanat Kitabı uygulaması, Testler yapılmaya uygun bir şekilde yazılmıştır fake repo oluşturulabilir .  Burada kullanılan öğeler ( Hilt, Retrofit, Search Bar,  MVVM, Room, V.B)
   
   ![resimler 1](https://user-images.githubusercontent.com/97243182/154796018-e51b54ea-59f8-4941-84b1-7b4d856cb135.png) 
   
