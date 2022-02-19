@@ -4,3 +4,6 @@ Bu uygulamayı yazarken çeşitli kaynaklardan yardım alarak yazdım kodların 
  
  ______________________________________________________________________________________________________________________________________________________________________________
   
+  Kotlin ile yazılmış Sanat Kitabı uygulaması, Testler yapılmaya uygun bir şekilde yazılmıştır fake repo oluşturulabilir .  Burada kullanılan öğeler ( Hilt, Retrofit, Search Bar, , MVVM, Room, V.B)
+  
+  
