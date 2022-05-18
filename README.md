@@ -1,4 +1,4 @@
--Bu uygulamayı yazarken çeşitli kaynaklardan yardım alarak yazdım kodların tamamı bana ait değildir. kaynaklar
+-Kaynaklar
 
  (https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android) (https://stackoverflow.com/) (https://github.com/bumptech/glide) (https://github.com/cortinico)
  (https://atilsamancioglu.com/)
